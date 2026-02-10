@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋 
 
-<!--
-**ericavenderica/ericavenderica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Full Stack Developer** passionate about building scalable, user-focused web applications from front end to back end.
 
-Here are some ideas to get you started:
+I enjoy working across the stack, writing clean and maintainable code, and collaborating with teams to turn ideas into reliable, high-quality products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me:
+
+- 💻 **Strong experience** with JavaScript (ES6+) and React
+- 🌐 **Hands-on full-stack development**, from UI to server-side logic
+- ⚡ **Focus on** performance, accessibility, and best practices
+- 🤝 **Experience working** in Agile, collaborative environments
+- 🧩 **Detail-oriented problem solver** with a growth mindset
+
+## Let’s connect 🤝
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erica-venderica/)
+
+Thanks for stopping by — feel free to explore my projects! 😄
+
