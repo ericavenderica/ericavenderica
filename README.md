@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-I’m a **Full Stack Developer** passionate about building scalable, user-focused web applications from front end to back end.
+I’m a **Beginner Full Stack Developer** passionate about building scalable, user-focused web applications from front end to back end.
 
 I enjoy working across the stack, writing clean and maintainable code, and collaborating with teams to turn ideas into reliable, high-quality products.
 
