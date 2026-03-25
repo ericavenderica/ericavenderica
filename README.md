@@ -10,6 +10,7 @@ I enjoy working across the stack, writing clean and maintainable code, and colla
 - 🌐 **Hands-on full-stack development**, from UI to server-side logic
 - ⚡ **Focus on** performance, accessibility, and best practices
 - 🤝 **Experience working** in Agile, collaborative environments
+- 🔧 **Currently refining my skills** in TypeScript, Prisma, and Backend Scalability
 - 🧩 **Detail-oriented problem solver** with a growth mindset
 
 ---
